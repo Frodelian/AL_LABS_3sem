@@ -1,0 +1,15 @@
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/bin/Debug/net7.0/ThirdTask
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/bin/Debug/net7.0/ThirdTask.deps.json
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/bin/Debug/net7.0/ThirdTask.runtimeconfig.json
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/bin/Debug/net7.0/ThirdTask.dll
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/bin/Debug/net7.0/ThirdTask.pdb
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/ThirdTask.csproj.AssemblyReference.cache
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/ThirdTask.AssemblyInfoInputs.cache
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/ThirdTask.AssemblyInfo.cs
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/ThirdTask.csproj.CoreCompileInputs.cache
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/ThirdTask.dll
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/refint/ThirdTask.dll
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/ThirdTask.pdb
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/ThirdTask.genruntimeconfig.cache
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/ThirdTask/obj/Debug/net7.0/ref/ThirdTask.dll

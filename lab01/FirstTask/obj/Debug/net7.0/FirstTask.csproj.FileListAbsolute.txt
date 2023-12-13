@@ -1,0 +1,15 @@
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/bin/Debug/net7.0/FirstTask
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/bin/Debug/net7.0/FirstTask.deps.json
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/bin/Debug/net7.0/FirstTask.runtimeconfig.json
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/bin/Debug/net7.0/FirstTask.dll
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/bin/Debug/net7.0/FirstTask.pdb
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/FirstTask.csproj.AssemblyReference.cache
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/FirstTask.AssemblyInfoInputs.cache
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/FirstTask.AssemblyInfo.cs
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/FirstTask.csproj.CoreCompileInputs.cache
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/FirstTask.dll
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/refint/FirstTask.dll
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/FirstTask.pdb
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/FirstTask.genruntimeconfig.cache
+/home/oleg/programming/C#/AL_LABS_3sem/lab01/FirstTask/obj/Debug/net7.0/ref/FirstTask.dll
