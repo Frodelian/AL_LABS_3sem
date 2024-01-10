@@ -1,0 +1,15 @@
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/bin/Debug/net7.0/task1
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/bin/Debug/net7.0/task1.deps.json
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/bin/Debug/net7.0/task1.runtimeconfig.json
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/bin/Debug/net7.0/task1.dll
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/bin/Debug/net7.0/task1.pdb
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/task1.csproj.AssemblyReference.cache
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/task1.AssemblyInfoInputs.cache
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/task1.AssemblyInfo.cs
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/task1.csproj.CoreCompileInputs.cache
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/task1.dll
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/refint/task1.dll
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/task1.pdb
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/task1.genruntimeconfig.cache
+/home/oleg/Programming/C#/AL_LABS_3sem/lab01/task1/obj/Debug/net7.0/ref/task1.dll

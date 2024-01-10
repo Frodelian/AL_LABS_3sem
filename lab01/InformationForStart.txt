@@ -1,0 +1,17 @@
+// dotnet new console применяется для создания проекта .NET CLI, используется тип console
+// Program.cs главный файл программы 
+// для запуска программы требуется ввести команду dotnet run
+// Файл отвечающий за общую конфигурацию проекта FileName.csproj
+
+<Project Sdk="Microsoft.NET.Sdk">
+ 
+  <PropertyGroup>
+    <OutputType>Exe</OutputType> // OutType: определяет выходной тип проекта. Это может быть выполняемое приложение в виде файла с расширением exe, которое запускается по нажатию. И также это может быть файл с расширением .dll - некоторый набор функциональностей, который используется другими проектами. По умолчанию здесь установлено значение "Exe", что значит, что мы создаем исполняемое приложение.
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+ 
+</Project>
+
+// Console.WriteLine выводит содержимое на экран {Нужны для вывода значений и т.д.}
